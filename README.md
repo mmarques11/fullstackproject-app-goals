@@ -19,3 +19,6 @@ back-end em Node.js, aplicação dos conceitos de API REST, utilizando TypeScrip
 front-end em ReactJS, aplicação dos conceitos de Propriedades, Estados e Componentes, tipagem com Typescript, tooling com Vite, interface responsiva com TailwindCSS, consumo de API Node.js, gerenciamento de dados assíncronos com TanStack Query.
 
 ![image](https://github.com/user-attachments/assets/320c1843-1bec-44bb-a184-8d8538a05f8b)
+
+![image](https://github.com/user-attachments/assets/dca0f00c-a8e0-4626-85b9-a6140de773d6)
+
