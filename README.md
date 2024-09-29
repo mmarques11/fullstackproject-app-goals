@@ -1,7 +1,7 @@
 # APP ACOMPANHAMENTO DE METAS SEMANAIS
 
 ### __Objetivo__
-Desenvolvi uma aplicação para que o usuário possa fazer o gerenciamente de pequenas metas durante a semana como (Ler um livro, meditar, correr). Sendo possível registrar novas metas, ver metas concluídas e pendetes.
+Desenvolvi uma aplicação para que o usuário possa fazer o gerenciamento de pequenas metas durante a semana como (Ler um livro, meditar, correr). Sendo possível registrar novas metas, ver metas concluídas e pendetes.
 
 ---
 
