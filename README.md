@@ -9,8 +9,13 @@ Desenvolvi uma aplicação para que o usuário possa fazer o gerenciamento de pe
 
 back-end em Node.js, aplicação dos conceitos de API REST, utilizando TypeScript, Fastify como framework, integração do DrizzleORM + PostgreSQL, Docker e Zod para validação de dados.
 
+![image](https://github.com/user-attachments/assets/485fe0dd-389a-447a-a095-1017ef2ba726)
+
+
 ---
 
 ### __Front-end__
 
 front-end em ReactJS, aplicação dos conceitos de Propriedades, Estados e Componentes, tipagem com Typescript, tooling com Vite, interface responsiva com TailwindCSS, consumo de API Node.js, gerenciamento de dados assíncronos com TanStack Query.
+
+![image](https://github.com/user-attachments/assets/320c1843-1bec-44bb-a184-8d8538a05f8b)
